@@ -5,7 +5,7 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "changelog-generator": "./bin/changelog-generator.js"
+    "changelog-generator": "bin/changelog-generator.js"
   },
   "scripts": {
     "build": "tsc",
