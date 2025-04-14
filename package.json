@@ -1,6 +1,6 @@
 {
   "name": "@christhackrey/git-changelog-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered changelog generator for Git repositories",
   "type": "module",
   "main": "dist/index.js",
